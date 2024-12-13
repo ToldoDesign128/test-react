@@ -1,0 +1,10 @@
+html, body{
+  background-color: rgb(57, 57, 59);
+  color: white;
+}
+
+.container{
+  width: 90%;
+  max-width: 1680px;
+  margin: auto;
+}
